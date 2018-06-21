@@ -1,2 +1,5 @@
 # hello_world
-The first repository initialised
+
+Hullo everybuggy!
+
+I'm new here and hope to stay for long.
